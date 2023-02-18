@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReleaseSettings", "ReleaseSettings\ReleaseSettings.csproj", "{938F4C0D-ADF8-4039-BF68-63AF07256B4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ReleaseAzure|Any CPU = ReleaseAzure|Any CPU
+		ReleaseLinux|Any CPU = ReleaseLinux|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{938F4C0D-ADF8-4039-BF68-63AF07256B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938F4C0D-ADF8-4039-BF68-63AF07256B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938F4C0D-ADF8-4039-BF68-63AF07256B4F}.ReleaseAzure|Any CPU.ActiveCfg = ReleaseAzure|Any CPU
+		{938F4C0D-ADF8-4039-BF68-63AF07256B4F}.ReleaseAzure|Any CPU.Build.0 = ReleaseAzure|Any CPU
+		{938F4C0D-ADF8-4039-BF68-63AF07256B4F}.ReleaseLinux|Any CPU.ActiveCfg = ReleaseLinux|Any CPU
+		{938F4C0D-ADF8-4039-BF68-63AF07256B4F}.ReleaseLinux|Any CPU.Build.0 = ReleaseLinux|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74B5ECC7-37A2-4B1D-A0E6-5ADA95BF2E6B}
+	EndGlobalSection
+EndGlobal
